@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 视频提示词"
+  short_description: "把故事、描述或参考视频整理为连续稳定的中文分镜提示词"
+  default_prompt: "使用 $ai-video-prompt 把我的主题故事整理成可直接生成视频的完整分镜提示词。"
+
+policy:
+  allow_implicit_invocation: true
