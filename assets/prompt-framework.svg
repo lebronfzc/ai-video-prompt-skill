@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1160" viewBox="0 0 1200 1160" role="img" aria-labelledby="title desc">
+<title id="title">AI 视频提示词框架</title>
+<desc id="desc">从故事输入到基础设定、氛围与画质、连续分镜，最后追加限制描述的中文框架图。</desc>
+<rect width="1200" height="1160" rx="28" fill="#101827"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<text x="70" y="85" fill="#f8fafc" font-size="38" font-weight="700">AI 视频提示词 · 框架图解</text>
+<text x="70" y="126" fill="#a8b7cb" font-size="21">一个故事 → 三个固定栏目 → 一段结尾限制</text>
+<rect x="70" y="160" width="1060" height="85" rx="16" fill="#223047"/>
+<text x="98" y="194" fill="#93c5fd" font-size="20" font-weight="700">输入你的想法</text>
+<text x="98" y="225" fill="#e2e8f0" font-size="21">故事 / 角色 / 时长 / 场景 / 视觉风格 / 特殊限制 / 可读取的参考素材</text>
+<path d="M600 251v25m-9-9 9 9 9-9" fill="none" stroke="#94a3b8" stroke-width="3"/>
+<rect x="70" y="285" width="1060" height="145" rx="18" fill="#183b47" stroke="#2dd4bf"/>
+<text x="98" y="327" fill="#5eead4" font-size="27" font-weight="700">01  【基础设定】 · 谁在画面里？</text>
+<text x="98" y="369" fill="#e2e8f0" font-size="21">身份、年龄感、性别表现、脸部、发型、体型、服装、颜色、显著标记</text>
+<text x="98" y="405" fill="#a8b7cb" font-size="20">连续性重点：同一角色保持一致；变化需交代发生的镜头与过程</text>
+<path d="M600 437v25m-9-9 9 9 9-9" fill="none" stroke="#94a3b8" stroke-width="3"/>
+<rect x="70" y="470" width="1060" height="145" rx="18" fill="#2c294a" stroke="#a78bfa"/>
+<text x="98" y="512" fill="#c4b5fd" font-size="27" font-weight="700">02  【氛围与画质】 · 画面是什么感觉？</text>
+<text x="98" y="554" fill="#e2e8f0" font-size="21">电影级质感 · 超写实 · 极致逼真 · Photorealism（真人实景拍摄）</text>
+<text x="98" y="590" fill="#a8b7cb" font-size="20">补充视觉基调、色彩、光线、材质、景深、天气与时代感</text>
+<path d="M600 622v25m-9-9 9 9 9-9" fill="none" stroke="#94a3b8" stroke-width="3"/>
+<rect x="70" y="655" width="1060" height="215" rx="18" fill="#1c324e" stroke="#60a5fa"/>
+<text x="98" y="697" fill="#93c5fd" font-size="27" font-weight="700">03  【画面内容】 · 每段时间拍什么、怎么拍？</text>
+<g fill="#e2e8f0" font-size="21">
+<text x="98" y="741">分镜 1：0秒到X秒 → 分镜 2：X秒到Y秒 → 按故事继续增加</text>
+<text x="98" y="779">每镜必填：景别 + 构图 + 运镜手法 + 画面内容</text>
+<text x="98" y="817">动作链：人物位置 → 具体动作与互动 → 环境变化 → 结果 / 镜头落点</text>
+</g>
+<text x="98" y="851" fill="#a8b7cb" font-size="19">时间连续不重叠；动作、视线、道具、空间、光线前后衔接；必要音效随动作写入</text>
+<path d="M600 877v25m-9-9 9 9 9-9" fill="none" stroke="#94a3b8" stroke-width="3"/>
+<rect x="70" y="910" width="1060" height="155" rx="18" fill="#413124" stroke="#fbbf24"/>
+<text x="98" y="952" fill="#fcd34d" font-size="27" font-weight="700">结尾追加  限制描述：</text>
+<text x="98" y="993" fill="#e2e8f0" font-size="21">无字幕 · 无音乐 · 只要音效 · 无文字 / 标题 / 标识 / 水印 / Logo / 乱码</text>
+<text x="98" y="1030" fill="#e2e8f0" font-size="21">人物稳定 · 肢体正确 · 道具连续 · 场景稳定 · 按故事补充其他限制</text>
+<text x="70" y="1115" fill="#a8b7cb" font-size="19">交付形式：简体中文成品提示词，不附分析过程，不用代码块。  |  规范同步：2026-10-08</text>
+</g>
+</svg>
